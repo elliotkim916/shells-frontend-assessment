@@ -57,6 +57,8 @@ const UpdateForm = ({ setShowUpdateForm, video, updateVideo }) => {
         /><br/>
         <input 
           type="number" 
+          min="1"
+          max="5"
           placeholder="Enter rating.." 
           onChange={e => setVideoRating(e.target.value)}  
           value={videoRating}

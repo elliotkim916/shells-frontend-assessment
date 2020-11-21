@@ -52,6 +52,8 @@ const CreateForm = ({ setShowCreateForm, addVideo }) => {
         /><br/>
         <input 
           type="number" 
+          min="1"
+          max="5"
           placeholder="Enter rating.." 
           onChange={e => setVideoRating(e.target.value)}  
           value={videoRating}

@@ -26,7 +26,7 @@ const FilterForm = ({ filterVideos }) => {
         <select value={filterType} onChange={e => setFilterType(e.target.value)} id="type">
           <option>---</option>
           <option value="Movie">Movie</option>
-          <option value="TV">TV</option>
+          <option value="TV Show">TV Show</option>
           <option value="Documentary">Documentary</option>
         </select><br/><br/>
 
