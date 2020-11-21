@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-shellstest-dev-181333-authRole",
+      "UnauthRoleArn": "arn:aws:iam::695428262376:role/amplify-shellstest-dev-181333-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::695428262376:role/amplify-shellstest-dev-181333-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-shellstest-dev-181333-deployment",
+      "UnauthRoleName": "amplify-shellstest-dev-181333-unauthRole",
+      "StackName": "amplify-shellstest-dev-181333",
+      "StackId": "arn:aws:cloudformation:us-west-2:695428262376:stack/amplify-shellstest-dev-181333/0290bce0-2ad6-11eb-9956-0a39fbfb4097",
+      "AmplifyAppId": "d2kv362ayugbkl"
+    },
+    "categories": {
+      "auth": {
+        "shellstestfbb3f9c3": {}
+      }
+    }
+  }
+}

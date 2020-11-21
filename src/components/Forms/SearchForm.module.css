@@ -1,0 +1,26 @@
+.searchFormContainer {
+  margin-right: 35px;
+}
+
+.searchBtn {
+  margin-left: 10px;
+  width: 75px;
+  height: 25px;
+  background-color: #ddd;
+  color: black;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  font-weight: bold;
+  transition: 0.3s;
+}
+
+.searchBtn:hover {
+  cursor: pointer;
+  color: white;
+  background-color: #8fc453;
+}
+
+.searchInput {
+  border: none;
+  border-bottom: 1px solid black;
+}

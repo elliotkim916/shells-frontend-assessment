@@ -1,0 +1,26 @@
+.signOut {
+  width: 8%;
+  margin: 15px auto 0 auto;
+}
+
+.authContainer {
+  padding: 0 20px 0 20px;
+}
+
+.createBtn {
+  width: 150px;
+  height: 35px;
+  background-color: #ddd;
+  color: black;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  font-weight: bold;
+  transition: 0.3s;
+  margin-bottom: 25px;
+}
+
+.createBtn:hover {
+  cursor: pointer;
+  color: white;
+  background-color: #8fc453;
+}

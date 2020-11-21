@@ -1,0 +1,25 @@
+.landingPageContainer {
+  padding: 0 20px 0 20px;
+}
+
+.signIn {
+  text-align: right;
+  margin: 15px 0 0 0;
+}
+
+.link {
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.link:hover {
+  text-decoration: underline;
+}
+
+.forms {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 35px;
+}

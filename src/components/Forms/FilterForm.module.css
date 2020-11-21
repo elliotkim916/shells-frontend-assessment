@@ -1,0 +1,28 @@
+.filterFormContainer {
+  text-align: left;
+}
+
+select {
+  margin-top: 10px;
+}
+
+input {
+  margin: 10px 0 10px 0;
+}
+
+.filterBtn {
+  width: 75px;
+  height: 25px;
+  background-color: #ddd;
+  color: black;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  font-weight: bold;
+  transition: 0.3s;
+}
+
+.filterBtn:hover {
+  cursor: pointer;
+  color: white;
+  background-color: #8fc453;
+}

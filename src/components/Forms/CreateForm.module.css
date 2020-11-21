@@ -1,0 +1,37 @@
+.createBtn,
+.cancelBtn {
+  margin-left: 10px;
+  width: 75px;
+  height: 25px;
+  background-color: #ddd;
+  color: black;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  font-weight: bold;
+  transition: 0.3s;
+}
+
+.createBtn:hover,
+.cancelBtn:hover {
+  cursor: pointer;
+  color: white;
+  background-color: #8fc453;
+}
+
+input {
+  border: none;
+  border-bottom: 1px solid black;
+  margin-bottom: 12px;
+}
+
+textarea {
+  margin-bottom: 12px;
+}
+
+.createFormContainer {
+  width: 200px;
+  margin: 0 auto 25px auto;
+  border: 1px solid black;
+  padding: 15px;
+  border-radius: 7px;
+}
