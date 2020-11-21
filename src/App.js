@@ -86,7 +86,7 @@ const App = () => {
         <Router>
           <Route 
             exact path="/" 
-            render={(props) => <LandingPage videos={videos} searchVideos={searchVideos} filterVideos={filterVideos} {...props} />} 
+            render={(props) => <LandingPage searchVideos={searchVideos} filterVideos={filterVideos} {...props} />} 
           />
           <Route 
             exact path="/auth" 
