@@ -1,0 +1,2 @@
+(this["webpackJsonpshells-assessment"]=this["webpackJsonpshells-assessment"]||[]).push([[20],{388:function(e,t,n){"use strict";n.r(t),n.d(t,"amplify_container",(function(){return i}));var s=n(12),i=function(){function e(e){Object(s.k)(this,e)}return e.prototype.render=function(){return Object(s.i)(s.b,null,Object(s.i)("slot",null))},e}();i.style=":host{display:-ms-flexbox;display:flex;-ms-flex-align:center;align-items:center;-ms-flex-pack:center;justify-content:center;height:100vh}"}}]);
+//# sourceMappingURL=20.1b65cb6f.chunk.js.map
