@@ -29,8 +29,6 @@ const UpdateForm = ({ setShowUpdateForm, video, updateVideo }) => {
     history.push('/auth');
   }
   
-  
-
   return (
     <div className={styles.createFormContainer}>
       <h3>Update your video</h3>
