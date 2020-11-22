@@ -1,11 +1,7 @@
 import './App.css';
 import { useEffect, useState } from 'react';
 import { BrowserRouter as Router, Route } from 'react-router-dom';
-import LandingPage from './components/LandingPage/LandingPage';
-import AuthPage from './components/AuthPage/AuthPage';
-import SearchResults from './components/SearchResults/SearchResults';
-import FilteredVideos from './components/Videos/FilteredVideos';
-import ViewVideo from './components/Video/ViewVideo';
+import { LandingPage, AuthPage, SearchResults, FilteredVideos, ViewVideo } from './components';
 import { getVideos } from './api';
 import { ParentContext } from './context/ParentContext';
 
